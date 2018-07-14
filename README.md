@@ -7,4 +7,5 @@ View Inception Layer with Built-In MATLAB Tool
 - Change "im = imread" for the image you would like to read.
 
 - Example: A lion picture after first layer: generate Conv, BN and ReLU visualization
-![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
+  - Original Picture (lion.jpg)
+![image](https://github.com/Bingooooooo/Inception-Model-Layer-View/blob/master/pictures/lion.jpg)
