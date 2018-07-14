@@ -8,4 +8,7 @@ View Inception Layer with Built-In MATLAB Tool
 
 - Example: A lion picture after first layer: generate Conv, BN and ReLU visualization
   - Original Picture (lion.jpg)
-<img width="500" height="333" src="https://github.com/Bingooooooo/Inception-Model-Layer-View/blob/master/pictures/lion.jpg"/>
+<div align=center><img width="500" height="333" src="https://github.com/Bingooooooo/Inception-Model-Layer-View/blob/master/pictures/lion.jpg"/></div>
+
+  - First Conv Layer
+<div align=center><img width="500" height="333" src="https://github.com/Bingooooooo/Inception-Model-Layer-View/blob/master/Results_collections/Result_Orginal_lion/1conv.jpg"/></div>
